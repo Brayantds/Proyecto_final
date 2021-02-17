@@ -1,0 +1,13 @@
+Algoritmo
+Solicitar es ingresar su nombre de asegurado
+ Solicitará  su edad 
+Dependiendo de la edad del asegurado hacer el cargo correspondiente
+ Preguntar si es casado
+Si es casado hacer el cargo correspondiente
+Preguntar la edad del conyugue
+Dependiendo de la edad del conyugue hacer el cargo correspondiente
+ Preguntar si tiene hijos
+Si tiene hijos hacer el cargo correspondiente
+ Cuantos hijos tiene
+Hacer el cargo correspondiente según la cantidad de hijos
+Al final se le mostrara el resultado de sus cargos dependiendo de sus respuestas
